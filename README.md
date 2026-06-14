@@ -1,4 +1,4 @@
-## A small online shop project that is more efficient than the social network project ([Django-Project-1](github.com/Sina-Dogmechi/Django-Project-1)) and more techniques are used in it.
+## A small online shop project that is more efficient than the social network project ([Django-Project-1](../../../../../Sina-Dogmechi/Django-Project-1)) and more techniques are used in it.
 > [!NOTE]
 > _All the packages used in this project are located in the <ins>requirements.txt</ins> file for installation in the virtual environment._
 
